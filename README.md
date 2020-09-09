@@ -1,10 +1,8 @@
-#Welcome to my website!
-
 <!doctype html>
 	<html lang="en">
 	  <head>
 	    <meta charset="utf-8">
-	    <title>About Me</title>
+	    <title>Welcome to my website!</title>
 	  </head>
 	  <body bgcolor="#FFB3E6">
     <a href="index.html">Home</a>
